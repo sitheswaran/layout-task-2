@@ -1,0 +1,553 @@
+*{padding:0;
+  margin:0;
+  box-sizing:border-box;}
+
+
+
+.container{width:1170px;
+           padding-right: 15px;
+		   padding-left:15px;
+           margin:0 auto;}
+		   
+		   
+.row      {display:flex;
+           flex-wrap:wrap;
+		    padding-right: 15px;
+		   padding-left:15px;
+}
+
+	 
+.col-lg-1 {width:8.33%;
+           padding: 15px;
+          }
+		  
+			 
+.col-lg-2 {width:16.66%;
+           padding: 15px;
+          }	  
+		   
+		   	 
+.col-lg-3 {width:25%;
+           padding: 15px;
+          }	 
+		  
+		  	 
+.col-lg-4 {width:33.33%;
+           padding: 15px;
+          }	
+		  
+		  	 
+.col-lg-5 {width:41.66%;
+padding: 15px;}
+        
+		  
+		  
+		  	 
+.col-lg-6 {width:50%;
+           padding: 15px;
+          }	
+		  
+		  
+		  	 
+.col-lg-7 {width:58.33%;
+           padding: 15px;
+          }	
+		  
+		  
+		  	 
+.col-lg-8 {width:66.66%;
+           padding: 15px;
+          }	
+		  
+		  	 
+.col-lg-9 {width:75%;
+           padding: 15px;
+          }	
+		  
+		  
+		  	 
+.col-lg-10 {width:83.33%;
+           padding: 15px;
+          }	
+		  
+		  	 
+.col-lg-11 {width:91.66%;
+           padding: 15px;
+          }	
+		  
+		 	 
+.col-lg-12 {width:100%;
+           padding:15px;
+          }
+		  
+		  
+		  /*-------------------------- comman tags for css---------------------------*/
+		  
+          /*-------------------------- header start ---------------------------*/	
+
+
+.header {
+	        background-color:#ceeff3;
+            height:700px;
+}		  
+
+ .header-section{
+	        background-color:#3e406a;
+			height:50px;
+			
+}
+		  
+.header-content {
+            background-color:#3e406a;
+            height:50px;
+}			
+
+.name {     margin-top:100px;
+	        background-color:#3e406a;
+            height:350px;
+}
+
+		  /*------------------------- header end---------------------------------*/
+
+		  /*------------------------- who start ---------------------------------*/
+.who {     
+            background-color:#cfc8f9;
+    	    height:400px;
+}
+		  
+.meting {	
+            background-color:#3e406a;
+			height:200px;
+			margin-top:70px;
+}			
+		  	  
+.image{
+	        background-color:#3e406a;
+			height:350px;
+}		  
+		  		  /*------------------------- who  end---------------------------------*/
+		  
+		  		  /*------------------------- values start ---------------------------------*/
+		  
+.values {   
+            background-color:#ceeff3;
+            height:700px;
+}			
+		  
+.our {
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.our1 {    
+            background-color:#3e406a;
+            height:75px;
+}			
+		  
+.our2  {		  
+		    background-color:#3e406a;
+            height:480px;
+}
+		    
+		  		  		  /*------------------------- values end   ---------------------------------*/
+		  
+		  		  		  /*------------------------- clinets start ---------------------------------*/
+		  
+.clainets {
+            background-color:#cfc8f9;
+            height:150px;
+}			
+		  
+.claint-mem {
+             background-color:#3e406a;
+		     height:100px;
+			 margin-top:10px;
+}
+		  		  		  		  /*------------------------- clinets end  ---------------------------------*/
+		  
+		  		  		  		  /*------------------------- fetures start ---------------------------------*/
+		  
+.fetures	{
+             background-color:#ceeff3;
+			 height:600px;
+}
+		  
+.fetures1  {		  
+		     background-color:#3e406a;
+			 height:50px;
+			 width:400px;
+			 margin-left:330px;
+}
+		  
+.fetures2  {
+            background-color:#3e406a;
+			height:50px;	
+}
+		  
+.fetures3  {
+            background-color:#3e406a;
+            height:375px;
+}			
+		  
+.fetures4  {
+            background-color:#3e406a;
+            height:100px;
+}		  
+		  
+		  
+		  		  		  		  		  /*------------------------- fetures end ---------------------------------*/
+		  
+		  
+		  		  		  		  		  /*------------------------- neque start ---------------------------------*/
+		  
+		  
+.neque {
+            background-color:#cfc8f9;
+            height:350px;
+}			
+		  
+.neque1{
+	        background-color:#3e406a;
+            height:315px;
+}					  		  		 	  /*------------------------- neque end ---------------------------------*/
+		
+		  		  		  		    	  /*-------------------------  ratione start ---------------------------------*/
+		  
+.ratione	{
+             background-color:#ceeff3;
+			 height:550px;
+}
+		 
+
+		  
+.ratione-heading  {
+            background-color:#3e406a;
+			height:70px;	
+}
+		  
+.ratione-content  {
+            background-color:#3e406a;
+            height:375px;
+}			
+		  
+.ratione-img  {
+            background-color:#3e406a;
+            height:100px;	
+}			
+		  
+		  		  		  		   /*-------------------------  ratione end  ---------------------------------*/
+		  
+		  		  		  		    /*-------------------------  service start ---------------------------------*/
+		  
+		  
+.service {   
+            background-color:#cfc8f9;
+            height:750px;
+}			
+		  
+.our-service {
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.service1 {    
+            background-color:#3e406a;
+            height:75px;
+}			
+		  
+.service2  {		  
+		    background-color:#3e406a;
+            height:250px;
+}
+		  		  		  		    /*-------------------------  service end ---------------------------------*/
+
+		  		  		  		    /*-------------------------  pricing start ---------------------------------*/
+
+
+		  
+.pricing {   
+            background-color:#ceeff3;
+            height:700px;
+}			
+		  
+.our-pricing {
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.pricing1 {    
+            background-color:#3e406a;
+            height:75px;
+}			
+		  
+.pricing2  {		  
+		    background-color:#3e406a;
+            height:450px;
+}
+
+		  		  		  		    /*-------------------------  pricing end ---------------------------------*/
+
+
+		  		  		  		    /*-------------------------  qustions start ---------------------------------*/
+									
+									
+                                    /*-------------------------- pricing start ------------------------------------*/
+		  
+.qustions {   
+            background-color:#cfc8f9;
+            height:550px;
+}			
+		  
+.our-qustions {
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.qustions1 {    
+            background-color:#3e406a;
+            height:75px;
+}			
+		  
+.qustions2  {		  
+		    background-color:#3e406a;
+            height:85px;
+}
+
+		  		  		  		    /*-------------------------  pricing end  ---------------------------------*/
+
+
+		  		  		  		    /*-------------------------  portfilo start ---------------------------------*/
+
+		  
+.portfilo {   
+            background-color:#ceeff3;
+            height:1035px;
+}			
+		  
+.our-portfilo {
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.portfilo1 {    
+            background-color:#3e406a;
+            height:75px;
+}			
+		  
+.portfilo2  {		  
+		    background-color:#3e406a;
+            height:250px;
+}		  
+
+		  		  		  		    /*-------------------------  portfilo end  ---------------------------------*/
+
+		  		  		  		    /*-------------------------  test monalies start ---------------------------------*/
+		  
+
+.testmonalies {   
+            background-color:#cfc8f9;
+            height:630px;
+}			
+		  
+.our-test {
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.test1 {    
+            background-color:#3e406a;
+            height:75px;
+}			
+		  
+.test2  {		  
+		    background-color:#3e406a;
+            height:400px;
+}
+
+		  		  		  		    /*-------------------------  test monalies end  ---------------------------------*/
+									
+		  		  		  		    /*-------------------------  team  start ---------------------------------*/
+
+
+
+.team {   
+            background-color:#ceeff3;
+            height:630px;
+}			
+		  
+.our-team{
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.team1 {    
+            background-color:#3e406a;
+            height:75px;
+}			
+		  
+.team2  {		  
+		    background-color:#3e406a;
+            height:400px;
+}
+		  		  		  		    /*-------------------------  team  start ---------------------------------*/
+
+		  		  		  		    /*-------------------------  our partners start ---------------------------------*/
+
+
+
+.partners {   
+            background-color:#cfc8f9;
+            height:330px;
+}			
+		  
+.our-partners{
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.partners1 {    
+            background-color:#3e406a;
+            height:75px;
+}			
+		  
+.partners2  {		  
+		    background-color:#3e406a;
+            height:100px;
+}
+		  		  		  		    /*------------------------- ourpartners end  ---------------------------------*/
+
+		  		  		  		    /*-------------------------  blog start ---------------------------------*/
+
+
+
+.blog {   
+            background-color:#ceeff3;
+            height:430px;
+}			
+		  
+.our-blog{
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.blog1 {    
+            background-color:#3e406a;
+            height:75px;
+}			
+		  
+.blog2  {		  
+		    background-color:#3e406a;
+            height:200px;
+}
+		  		  		  		    /*------------------------- blog end  ---------------------------------*/
+
+
+		  		  		  		    /*-------------------------  contact start ---------------------------------*/
+
+
+
+.contact {   
+            background-color:#cfc8f9;
+            height:470px;
+}			
+		  
+.our-contact{
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.contact1 {    
+            background-color:#3e406a;
+            height:150px;
+}	
+.contact2  {		  
+		    background-color:#3e406a;
+            height:343px;
+}
+		
+		
+		  		  		  		    /*------------------------- contact end  ---------------------------------*/
+
+
+		  		  		  		    /*------------------------- news letter start  ---------------------------------*/
+
+		  
+		  
+.news {   
+            background-color:#ceeff3;
+            height:230px;
+}			
+		  
+.our-news{
+	        background-color:#3e406a;
+			height:50px;
+			width:400px;
+			margin-left:330px;
+}
+		  
+.news1 {    
+            background-color:#3e406a;
+            height:75px;
+			width:700px;
+			margin-left:180px;
+}	  
+		  
+		  		  		  		  	/*------------------------- news letter endend  ---------------------------------*/
+		  
+		  
+			  		  		  		    /*------------------------- detailes start  ---------------------------------*/	  
+		  
+		  
+.detailes { 
+            background-color:#cfc8f9;
+            height:470px;
+}	  
+		  
+.detailes-flex {    
+            background-color:#3e406a;
+            height:430px;
+}		  
+		  
+		  			  		  		    /*------------------------- detailes end  ---------------------------------*/	
+		  		  
+			  		  		  		    /*------------------------- links start  ---------------------------------*/	  
+		  
+		  
+.links { 
+            background-color:#ceeff3;
+            height:150px;
+}	  
+		  
+.our-links {    
+            background-color:#3e406a;
+            height:100px;
+			width:400px;
+			margin-left:330px;	
+}		  
+		  
+				  		  		  		 /*------------------------- links end  ---------------------------------*/	
+		  
+		  
+		  
+		  
+		  
